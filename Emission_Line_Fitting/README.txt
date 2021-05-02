@@ -1,0 +1,1 @@
+In this activity, students use the emission spectra of NGC6946 and BPT diagrams to determine what the primary source of ionizing radiation is in this galaxy.  They also practice gaussian line fitting in python.
