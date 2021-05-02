@@ -1,0 +1,1 @@
+In this activity students learn about color-magnitude diagrams and plotting in python.  By comparing spirals, ellipticals, dwarfs, and ULIRGs students also have to concider what we can learn from CMDs.
