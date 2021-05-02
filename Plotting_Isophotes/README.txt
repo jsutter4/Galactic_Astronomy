@@ -1,0 +1,1 @@
+In this activity, students practice photometry by plotting the flux in increasing radius for a spiral and elliptical galaxy.  They then compare the two plots to examine the shapes of isophotes in different galaxy types.
